@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/62e6c6e0089044218fdec82ea731fc50/artifacts
+end_time: 1707413805236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62e6c6e0089044218fdec82ea731fc50
+run_name: adventurous-wasp-159
+run_uuid: 62e6c6e0089044218fdec82ea731fc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413800450
+status: 4
+tags: []
+user_id: vscode

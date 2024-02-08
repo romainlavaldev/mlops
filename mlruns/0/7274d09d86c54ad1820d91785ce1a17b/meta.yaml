@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/7274d09d86c54ad1820d91785ce1a17b/artifacts
+end_time: 1707414152665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7274d09d86c54ad1820d91785ce1a17b
+run_name: serious-pug-648
+run_uuid: 7274d09d86c54ad1820d91785ce1a17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707414147831
+status: 4
+tags: []
+user_id: vscode

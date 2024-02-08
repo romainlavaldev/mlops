@@ -1,0 +1,6 @@
+COLUMNS:
+  Time : str
+  BTC : float64
+  ETH : float64
+  DOGE : float64
+  ADA : float64

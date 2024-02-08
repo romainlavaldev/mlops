@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/6dd61ea5278644679dea95cdcb5bbf91/artifacts
+end_time: 1707414425764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dd61ea5278644679dea95cdcb5bbf91
+run_name: nosy-gnu-688
+run_uuid: 6dd61ea5278644679dea95cdcb5bbf91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707414424683
+status: 3
+tags: []
+user_id: vscode

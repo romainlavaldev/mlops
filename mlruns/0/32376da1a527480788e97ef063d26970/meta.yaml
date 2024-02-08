@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/32376da1a527480788e97ef063d26970/artifacts
+end_time: 1707413721881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32376da1a527480788e97ef063d26970
+run_name: sincere-yak-468
+run_uuid: 32376da1a527480788e97ef063d26970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413720656
+status: 4
+tags: []
+user_id: vscode

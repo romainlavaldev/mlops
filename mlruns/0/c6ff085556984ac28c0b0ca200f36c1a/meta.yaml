@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/c6ff085556984ac28c0b0ca200f36c1a/artifacts
+end_time: 1707413786315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6ff085556984ac28c0b0ca200f36c1a
+run_name: auspicious-mare-940
+run_uuid: c6ff085556984ac28c0b0ca200f36c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413785097
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/57cc29fdc45f483bb038cb517f722b66/artifacts
+end_time: 1707413740854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57cc29fdc45f483bb038cb517f722b66
+run_name: sassy-zebra-114
+run_uuid: 57cc29fdc45f483bb038cb517f722b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707413739523
+status: 4
+tags: []
+user_id: vscode

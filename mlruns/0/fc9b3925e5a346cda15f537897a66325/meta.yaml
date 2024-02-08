@@ -1,0 +1,15 @@
+artifact_uri: file:///home/asini/Workspace/Enseignement/M2/MLOps/e2e-mlops/mlruns/0/fc9b3925e5a346cda15f537897a66325/artifacts
+end_time: 1707414260759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9b3925e5a346cda15f537897a66325
+run_name: selective-cod-64
+run_uuid: fc9b3925e5a346cda15f537897a66325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707414259378
+status: 3
+tags: []
+user_id: vscode
